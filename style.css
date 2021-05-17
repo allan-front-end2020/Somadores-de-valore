@@ -1,0 +1,15 @@
+.input {
+  width: 140px;
+  height: 25px;
+  border-radius: 12px;
+}
+.btn {
+  background: black;
+  color: white;
+  width: 80px;
+  height: 33px;
+  border-radius: 12px;
+}
+#res {
+  margin-top: 33px;
+}
